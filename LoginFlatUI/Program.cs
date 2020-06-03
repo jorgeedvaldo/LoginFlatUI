@@ -6,6 +6,11 @@ using System.Windows.Forms;
 
 namespace LoginFlatUI
 {
+    /// <summary>
+    /// Created by Edivaldo Jorge
+    /// Github - @jorgeedvaldo (github.com/jorgeedvaldo)
+    /// </summary>
+
     static class Program
     {
         /// <summary>
@@ -16,7 +21,7 @@ namespace LoginFlatUI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FrmLogin());
         }
     }
 }
