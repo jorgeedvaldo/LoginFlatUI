@@ -1,5 +1,5 @@
 # LoginFlatUI
-This is a Login form with modern UI using C#
+This is a Login form with modern UI using C# programming language.
 
 <p align="center">
   <img src="images/form.png" alt="form" width="600" />
